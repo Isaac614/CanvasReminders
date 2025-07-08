@@ -25,7 +25,7 @@
         <SplitView.Pane>
             <StackPanel>
                 <!-- <Button Command="{Binding ButtonClick}">=</Button> -->
-                <ListBox ItemsSource="{Binding Courses}" 
+                <ListBox ItemsSource="{Binding Courses}"
                          SelectedItem="{Binding SelectedItem}">
                     <ListBox.ItemTemplate>
                         <DataTemplate DataType="{x:Type vm:CourseViewModel}">

@@ -11,7 +11,7 @@ public partial class MainWindowViewModel : ViewModelBase
 {
     private UserCalendar _calendar;
     public ObservableCollection<CourseViewModel> Courses { get; set; }
-
+    
     [ObservableProperty] private bool _isPaneOpen = true;
     
     [ObservableProperty]
@@ -19,7 +19,7 @@ public partial class MainWindowViewModel : ViewModelBase
     
     [ObservableProperty]
     private ViewModelBase _selectedItem;
-
+    
     public MainWindowViewModel()
     {
         _calendar = new UserCalendar();
@@ -30,13 +30,13 @@ public partial class MainWindowViewModel : ViewModelBase
             Courses.Add(new CourseViewModel(course, _calendar));
         }
     }
-
+    
     [RelayCommand]
     public void ButtonClick()
     {
         IsPaneOpen = !IsPaneOpen;
     }
-
+    
     partial void OnSelectedItemChanged(ViewModelBase value)
     {
         CurrentPage = value;

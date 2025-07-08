@@ -68,6 +68,7 @@
 /Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/CanvasReminders.AssemblyInfoInputs.cache
 /Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/CanvasReminders.AssemblyInfo.cs
 /Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/CanvasReminders.csproj.CoreCompileInputs.cache
+/Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/CanvasReminders.sourcelink.json
 /Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/CanvasRe.1AEEAC3F.Up2Date
 /Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/CanvasReminders.dll
 /Users/Isaac/Desktop/Projects/CanvasReminders/obj/Debug/net9.0/refint/CanvasReminders.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanvasReminders")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d70804aee0394eb0c89181bd4a370dc8db491a19")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanvasReminders")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanvasReminders")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

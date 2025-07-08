@@ -30,8 +30,5 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [/Users/Isaac/Desktop/Projects/CanvasReminders/Views/EventView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/Users/Isaac/Desktop/Projects/CanvasReminders/Views/ListDisplayView.axaml]
-build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
-
 [/Users/Isaac/Desktop/Projects/CanvasReminders/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

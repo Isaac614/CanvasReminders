@@ -1,0 +1,35 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:CanvasReminders.ViewModels"
+             x:DataType="vm:ListDisplayViewModel"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="CanvasReminders.Views.ListDisplayView">
+        
+    <SplitView
+        Background="white"
+        IsPaneOpen="{Binding IsPaneOpen}"
+        OpenPaneLength="300"
+        CompactPaneLength="50"
+        DisplayMode="CompactInline">
+        <SplitView.Pane>
+            <StackPanel>
+                <!-- <Button Command="{Binding ButtonClick}">=</Button> -->
+                <ListBox ItemsSource="{Binding Courses}" 
+                         SelectedItem="{Binding SelectedItem}">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate DataType="{x:Type vm:CourseViewModel}">
+                            <StackPanel>
+                                <TextBlock Text="{Binding CourseName}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+            </StackPanel>
+        </SplitView.Pane>
+        <StackPanel>
+            <TransitioningContentControl Content="{Binding CurrentPage}"></TransitioningContentControl>
+        </StackPanel>
+    </SplitView>
+</UserControl>

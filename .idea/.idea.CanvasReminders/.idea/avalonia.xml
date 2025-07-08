@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="App.axaml" value="CanvasReminders.csproj" />
+        <entry key="Views/CourseView.axaml" value="CanvasReminders.csproj" />
+        <entry key="Views/EventView.axaml" value="CanvasReminders.csproj" />
+        <entry key="Views/EventViewModel.axaml" value="CanvasReminders.csproj" />
+        <entry key="Views/ListDisplayView.axaml" value="CanvasReminders.csproj" />
+        <entry key="Views/MainWindow.axaml" value="CanvasReminders.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

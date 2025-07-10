@@ -6,389 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Isaac Moore Calendar (Canvas)
 X-WR-CALDESC:Calendar events for the user\, Isaac Moore
 BEGIN:VEVENT
-DTSTAMP:20250609T065900Z
-UID:event-assignment-14907149
-DTSTART:20250607T230000Z
-DTEND:20250607T230000Z
-CLASS:PUBLIC
-DESCRIPTION:--------\nOverview\n--------\n\n* Task: Use a structure chart a
- nd pseudocode to represent a sorting algorithm.\n\n* Purpose: Demonstrate 
- how to solve and verify a nontrivial problem.\n\n* Time: It should take ab
- out three hours to complete this activity.\n\n------------\nInstructions\n
- ------------\n\n* Read the [Lab 07: Sub-List Sort Design instructions.] (h
- ttps://content.byui.edu/file/68c35474-e9e5-4e96-8900-c195bb668770/1/Ponder
- /131.07.Ponder.html)\n\n* Create a structure chart representing  your des
- ign.\n\n* Create a pseudocode draft of your design.\n\n* Submit the assign
- ment as a single PDF here.
-SEQUENCE:0
-SUMMARY:W07 Lab: Sub-List Sort Design [CSE 131]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _334896&month=06&year=2025#assignment_14907149
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><div class="byui cse131">\n<h2>Overview</h2>\n<ul
- >\n<li>\n<strong>Task</strong>: Use a structure chart and pseudocode to re
- present a sorting algorithm.</li>\n<li>\n<strong>Purpose</strong>: Demonst
- rate how to solve and verify a nontrivial problem.</li>\n<li>\n<strong>Tim
- e</strong>: It should take about three hours to complete this activity.</l
- i>\n</ul>\n<h2>Instructions</h2>\n<ul>\n<li>Read the <a href="https://cont
- ent.byui.edu/file/68c35474-e9e5-4e96-8900-c195bb668770/1/Ponder/131.07.Pon
- der.html">Lab 07: Sub-List Sort Design instructions.</a>\n</li>\n<li>Creat
- e a structure chart representing&nbsp\; your design.</li>\n<li>Create a ps
- eudocode draft of your design.</li>\n<li>Submit the assignment as a single
-  PDF here.</li>\n</ul>\n</div><script src="https://instructure-uploads.s3.
- amazonaws.com/account_107060000000000001/attachments/95443786/canvas_globa
- l_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250609T170500Z
-UID:event-assignment-14857955
-DTSTART;VALUE=DATE;VALUE=DATE:20250607
-CLASS:PUBLIC
-DESCRIPTION:------\nPonder\n------\n\n Tasks\n------\n\n* Complete the exe
- rcises linked on the [Working with Forms] (https://byui-cit.github.io/lear
- ning-modules/modules/js/forms/ponder1).\n\n* Be sure to revisit these topi
- cs and instructions as you complete your Prove assignments for Week 07.\n\
- n* Report your completion of the exercise by submitting a screenshot of yo
- ur progress.
-SEQUENCE:0
-SUMMARY:W07 Ponder: Working with Forms [WDD 131]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _338576&month=06&year=2025#assignment_14857955
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><div class="byui wdd131">\n<div id="kl_wrapper_3"
-  class="kl_rounded_inset kl_wrapper">\n<div id="kl_banner">\n<h2><span id=
- "kl_banner_right">Ponder</span></h2>\n</div>\n<div id="kl_objectives2">\n<
- h3><i class="fa fa-check" aria-hidden="true"><span class="dp-icon-content"
-  style="display: none\;">&nbsp\;</span></i>Tasks</h3>\n<ol id="kl_objectiv
- e_list">\n<li>Complete the exercises linked on the <a class="inline_disabl
- ed" href="https://byui-cit.github.io/learning-modules/modules/js/forms/pon
- der1" target="_blank">Working with Forms</a>.\n<ul>\n<li>Be sure to revisi
- t these topics and instructions as you complete your Prove assignments for
-  Week 07.</li>\n</ul>\n</li>\n<li>Report your completion of the exercise b
- y submitting a screenshot of your progress.</li>\n</ol>\n</div>\n</div>\n<
- /div><script src="https://instructure-uploads.s3.amazonaws.com/account_107
- 060000000000001/attachments/95443786/canvas_global_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250610T161900Z
-UID:event-assignment-14857959
-DTSTART;VALUE=DATE;VALUE=DATE:20250607
-CLASS:PUBLIC
-DESCRIPTION:----------------------------------\nWeek 7 Milestone: Credit Ca
- rd Form\n----------------------------------\n\n Tasks\n------\n\n* Comple
- te the [Credit Card Form Prove Assignment] (https://wdd131.netlify.app/pr
- ove/credit-card-form-validation) outlined in the [Unit 04 homepage] (http
- s://wdd131.netlify.app/semester/unit4).\n\n* Submit a URL link to your we
- b page solution for the assignment.\n\n 
-SEQUENCE:0
-SUMMARY:W07 Prove: Credit Card Form [WDD 131]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _338576&month=06&year=2025#assignment_14857959
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><div class="byui wdd131">\n<div id="kl_wrapper_3"
-  class="kl_rounded_inset kl_wrapper">\n<div id="kl_banner">\n<h2>\n<span i
- d="kl_banner_left">Week 7</span> <span id="kl_banner_right">Milestone: Cre
- dit Card Form</span>\n</h2>\n</div>\n<div id="kl_objectives2">\n<h3>\n<i c
- lass="fa fa-check" aria-hidden="true"><span class="dp-icon-content" style=
- "display: none\;">&nbsp\;</span></i>Tasks</h3>\n<ol id="kl_objective_list"
- >\n<li>Complete<span>&nbsp\;</span>the <a class="inline_disabled" href="ht
- tps://wdd131.netlify.app/prove/credit-card-form-validation" target="_blank
- ">Credit Card Form Prove Assignment</a> outlined in the<span>&nbsp\;</span
- ><a class="inline_disabled" href="https://wdd131.netlify.app/semester/unit
- 4" target="_blank">Unit 04 homepage</a>.</li>\n<li>Submit<strong>&nbsp\;</
- strong>a URL link to your web page solution for the assignment.</li>\n</ol
- >\n</div>\n</div>\n<p>&nbsp\;</p>\n</div><script src="https://instructure-
- uploads.s3.amazonaws.com/account_107060000000000001/attachments/95443786/c
- anvas_global_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250605T153800Z
-UID:event-assignment-14669163
-DTSTART;VALUE=DATE;VALUE=DATE:20250607
-CLASS:PUBLIC
-DESCRIPTION:In this activity\, you will report completion of this week's Bo
- ok of Mormon [readings] (https://byui.instructure.com/courses/341216/pages
- /w07-study-readings) and [activities] (https://byui.instructure.com/course
- s/341216/pages/i6da2c1d5424ff2ad63acf014b3f78dfb).\n\n----------\nConditio
- ns\n----------\n\n* Complete the report by honestly answering each questio
- n in this quiz.\n\nNOTE: Be sure to complete all instructions in this acti
- vity before submitting it.
-SEQUENCE:0
-SUMMARY:W07 Report: Personal Study [REL 122]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _341216&month=06&year=2025#assignment_14669163
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544780
- 0/canvas_global_app%20%25281%2529.css"><div class="byui rel122">\n<p>In th
- is activity\, you will report completion of this week's Book of Mormon <a 
- title="W07 Study: Readings" href="https://byui.instructure.com/courses/341
- 216/pages/w07-study-readings" data-api-endpoint="https://byui.instructure.
- com/api/v1/courses/341216/pages/w07-study-readings" data-api-returntype="P
- age">readings</a> and <a title="W07 Study: Digging Deeper" href="https://b
- yui.instructure.com/courses/341216/pages/i6da2c1d5424ff2ad63acf014b3f78dfb
- " data-api-endpoint="https://byui.instructure.com/api/v1/courses/341216/pa
- ges/i6da2c1d5424ff2ad63acf014b3f78dfb" data-api-returntype="Page">activiti
- es</a>.</p>\n<h2>Conditions</h2>\n<ol>\n<li>Complete the report by honestl
- y answering each question in this quiz.</li>\n</ol>\n<p><span style="text-
- align: right\; font-size: 1rem\;"><strong>NOTE: </strong>Be sure to comple
- te all instructions in this activity before submitting it.</span></p>\n</d
- iv><script src="https://instructure-uploads.s3.amazonaws.com/account_10706
- 0000000000001/attachments/95447814/canvas_global_app%20%25281%2529.js"></s
- cript>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250611T013600Z
-UID:event-assignment-14669259
-DTSTART;VALUE=DATE;VALUE=DATE:20250607
-CLASS:PUBLIC
-DESCRIPTION:--------\nOverview\n--------\n\nIn this activity\, you will sha
- re a scriptural insight with your friends or family using the study materi
- als from the past two weeks. The purpose of this activity is to deepen you
- r understanding of the principles you learn through sharing. Your instruct
- or will grade your submission\, and provide appropriate feedback.\n\n-----
- -------\nInstructions\n------------\n\nWhen you share your insight you sho
- uld do the following:\n\n* Identify one insight from your personal study o
- f the Book of Mormon over the past two weeks ([W06] (https://byui.instruct
- ure.com/courses/341216/pages/w06-study-readings) and [W07] (https://byui.i
- nstructure.com/courses/341216/pages/w07-study-readings)) that you want to 
- share. This should include a scripture passage or prophetic quote\, and yo
- ur explanation of why it is important or how it is relevant in your life.\
- n\n* Share your insight! You could talk with a friend\, Skype your family\
- , call your grandma\, post something on social media\, send someone a lett
- er or email\, or make a blog entry. Try to generate a discussion with othe
- rs about what you shared and why it is important.\n\n* Reflect and Report 
- on your experience. Download and complete the [Share It! Template] (https:
- //byui.instructure.com/courses/341216/files/148340976?wrap=1).\n\n* Submit
-  the completed document in this assignment.
-SEQUENCE:0
-SUMMARY:W07 Insight Sharing: Share It! [REL 122]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _341216&month=06&year=2025#assignment_14669259
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544780
- 0/canvas_global_app%20%25281%2529.css"><div class="byui rel122">\n<h2>Over
- view</h2>\n<p>In this activity\, you will share a scriptural insight with 
- your friends or family using the study materials from the past two weeks. 
- The purpose of this activity is to deepen your understanding of the princi
- ples you learn through sharing. Your instructor will grade your submission
- \, and provide appropriate feedback.</p>\n<h2>Instructions</h2>\n<p>When y
- ou share your insight you should do the following:</p>\n<ol>\n<li>Identify
-  one insight from your personal study of the Book of Mormon over the past 
- two weeks (<a title="W06 Study: Readings" href="https://byui.instructure.c
- om/courses/341216/pages/w06-study-readings" data-api-endpoint="https://byu
- i.instructure.com/api/v1/courses/341216/pages/w06-study-readings" data-api
- -returntype="Page">W06</a> and <a title="W07 Study: Readings" href="https:
- //byui.instructure.com/courses/341216/pages/w07-study-readings" data-api-e
- ndpoint="https://byui.instructure.com/api/v1/courses/341216/pages/w07-stud
- y-readings" data-api-returntype="Page">W07</a>) that you want to share. Th
- is should include a scripture passage or prophetic quote\, and your explan
- ation of why it is important or how it is relevant in your life.</li>\n<li
- >Share your insight! You could talk with a friend\, Skype your family\, ca
- ll your grandma\, post something on social media\, send someone a letter o
- r email\, or make a blog entry. Try to generate a discussion with others a
- bout what you shared and why it is important.</li>\n<li>Reflect and Report
-  on your experience. Download and complete the <a id="148340468" class="in
- structure_file_link instructure_scribd_file inline_disabled" href="https:/
- /byui.instructure.com/courses/341216/files/148340976?wrap=1" target="_blan
- k" data-canvas-previewable="true" data-api-endpoint="https://byui.instruct
- ure.com/api/v1/courses/341216/files/148340976" data-api-returntype="File">
- Share It! Template</a>.</li>\n<li>Submit the completed document in this as
- signment.</li>\n</ol>\n</div><script src="https://instructure-uploads.s3.a
- mazonaws.com/account_107060000000000001/attachments/95447814/canvas_global
- _app%20%25281%2529.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250625T211000Z
-UID:event-assignment-14909347
-DTSTART;VALUE=DATE;VALUE=DATE:20250607
-CLASS:PUBLIC
-DESCRIPTION:--------\nOverview\n--------\n\n* Purpose: Work with your team 
- to design your program.\n\n* Task: Meet with your team and follow the inst
- ructions for the [Inheritance Design Activity] (https://byui-cse.github.io
- /cse210-course-2023/unit04/design.html).\n\n----------\nSubmission\n------
- ----\n\n* Each person should individually prepare and submit their design 
- here.
-SEQUENCE:0
-SUMMARY:W07 Team Activity: Designer [CSE 210]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _335012&month=06&year=2025#assignment_14909347
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><div class="byui cse210">\n<h2>Overview</h2>\n<ul
- >\n<li>\n<strong>Purpose:</strong> <span>Work with your team to design you
- r program.</span>\n</li>\n<li>\n<strong>Task:</strong> Meet with your team
-  and follow the instructions for the <a class="inline_disabled" href="http
- s://byui-cse.github.io/cse210-course-2023/unit04/design.html" target="_bla
- nk">Inheritance Design Activity</a>.</li>\n</ul>\n<h2>Submission</h2>\n<ul
- >\n<li>Each person should individually prepare and submit their design her
- e.</li>\n</ul>\n</div><script src="https://instructure-uploads.s3.amazonaw
- s.com/account_107060000000000001/attachments/95443786/canvas_global_app.js
- "></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250625T211000Z
-UID:event-assignment-14909305
-DTSTART;VALUE=DATE;VALUE=DATE:20250607
-CLASS:PUBLIC
-DESCRIPTION:* Purpose: Being able to collaborate with others is an essentia
- l skill in any organization. The purpose here is for you to report on you
- r team work and collaboration efforts.\n\n* This is an important part of 
- the BYU-Idaho Learning Outcome: [Skilled CollaboratorsLinks to an externa
- l site.] (https://www.byui.edu/byu-idaho-learning-outcomes#sc)\n\n* Task: 
- Report your contributions to your team activity this week by answering the
-  following questions.
-SEQUENCE:0
-SUMMARY:W07 Team Activity: Participation Report [CSE 210]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _335012&month=06&year=2025#assignment_14909305
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><div class="byui cse210">\n<ul>\n<li><strong>Purp
- ose</strong>: Being able to collaborate with others is an essential skill 
- in any organization. The purpose here is for you to report on<span>&nbsp\;
- </span><strong>your<span>&nbsp\;</span></strong>team work and collaboratio
- n efforts<span>.</span>\n<ul>\n<li><span>This is an important part of the 
- BYU-Idaho Learning Outcome:&nbsp\;<a class="inline_disabled external" href
- ="https://www.byui.edu/byu-idaho-learning-outcomes#sc" target="_blank">Ski
- lled Collaborators<span class="external_link_icon" role="presentation"><sp
- an class="screenreader-only">Links to an external site.</span></span></a><
- /span></li>\n</ul>\n</li>\n<li><strong>Task</strong>: Report your contribu
- tions to your team activity this week by answering the following questions
- .</li>\n</ul>\n</div><script src="https://instructure-uploads.s3.amazonaws
- .com/account_107060000000000001/attachments/95443786/canvas_global_app.js"
- ></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250604T211200Z
-UID:event-assignment-override-1216651
-DTSTART:20250609T173000Z
-DTEND:20250609T173000Z
-CLASS:PUBLIC
-DESCRIPTION:Please read chapter 15 and the conclusion to prepare for the di
- scussion. \n\n 
-SEQUENCE:0
-SUMMARY:Faith is Not Blind Ch. 15 and Conclusion (Section 9) [ENG 150]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _335578&month=06&year=2025#assignment_14889523
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><p>Please read chapter 15 and the conclusion to p
- repare for the discussion.&nbsp\;</p>\n<p>&nbsp\;</p><script src="https://
- instructure-uploads.s3.amazonaws.com/account_107060000000000001/attachment
- s/95443786/canvas_global_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250423T204600Z
-UID:event-assignment-override-1216663
-DTSTART:20250609T173000Z
-DTEND:20250609T173000Z
-CLASS:PUBLIC
-DESCRIPTION:Make at least two comments\, questions\, or answers
-SEQUENCE:0
-SUMMARY:Reasoning: randomized controlled trials (Section 9) [ENG 150]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _335578&month=06&year=2025#assignment_14889645
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><p>Make at least two comments\, questions\, or an
- swers</p><script src="https://instructure-uploads.s3.amazonaws.com/account
- _107060000000000001/attachments/95443786/canvas_global_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250423T204500Z
-UID:event-assignment-override-1216657
-DTSTART:20250609T173000Z
-DTEND:20250609T173000Z
-CLASS:PUBLIC
-DESCRIPTION:For this short writing assignment\, find and summarize 3-4 sour
- ces that you could use for your Change Up essay. \n\nInstead of scholarly
-  sources\, this time look for statistics and stories that fit well with yo
- ur project. \n\nFor example\, if your experiment involves meditation\, yo
- u could find numbers about how many people in the USA meditate regularly. 
- Some helpful sites might include [www.pewresearch.org] (http://www.pewrese
- arch.org)\, [www.statista.com] (https://www.statista.com/)\, and simple go
- ogle searches. \n\nFor stories\, you could google "14-day meditation chal
- lenge" or "30-day meditation experiment" and find stories of people who tr
- ied a similar experiment. \n\nIf your experiment involves religion or spi
- rituality\, you might be interested in these stories about young adults wh
- o tried to increase their faith in a 30-day challenge: \n\nhttps://newsro
- om.churchofjesuschrist.org/article/try-faith-30-day-challenge-7-share-how-
- each-grew-closer-jesus-christ \n\nAs always\, bring a paper copy for us t
- o workshop in class. \n\n \n\n 
-SEQUENCE:0
-SUMMARY:SW #16 Stories and Statistics (Section 9) [ENG 150]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _335578&month=06&year=2025#assignment_14889665
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><p>For this short writing assignment\, find and s
- ummarize 3-4 sources that you could use for your Change Up essay.&nbsp\;</
- p>\n<p>Instead of scholarly sources\, this time look for statistics and st
- ories that fit well with your project.&nbsp\;</p>\n<p>For example\, if you
- r experiment involves meditation\, you could find numbers about how many p
- eople in the USA meditate regularly. Some helpful sites might include <a h
- ref="http://www.pewresearch.org" target="_blank">www.pewresearch.org</a><s
- pan>\, <a href="https://www.statista.com/">www.statista.com</a></span><spa
- n>\, and simple google searches.&nbsp\;</span></p>\n<p><span>For stories\,
-  you could google "14-day meditation challenge" or "30-day meditation expe
- riment" and find stories of people who tried a similar experiment.&nbsp\;<
- /span></p>\n<p><span>If your experiment involves religion or spirituality\
- , you might be interested in these stories about young adults who tried to
-  increase their faith in a 30-day challenge:&nbsp\;</span></p>\n<p><a href
- ="https://newsroom.churchofjesuschrist.org/article/try-faith-30-day-challe
- nge-7-share-how-each-grew-closer-jesus-christ" target="_blank">https://new
- sroom.churchofjesuschrist.org/article/try-faith-30-day-challenge-7-share-h
- ow-each-grew-closer-jesus-christ</a>&nbsp\;</p>\n<p>As always\, bring a pa
- per copy for us to workshop in class.&nbsp\;</p>\n<p>&nbsp\;</p>\n<p>&nbsp
- \;</p><script src="https://instructure-uploads.s3.amazonaws.com/account_10
- 7060000000000001/attachments/95443786/canvas_global_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250609T171200Z
-UID:event-assignment-14859589
-DTSTART;VALUE=DATE;VALUE=DATE:20250609
-CLASS:PUBLIC
-DESCRIPTION:
-SEQUENCE:0
-SUMMARY:W08 Day 1 Attendance [WDD 131]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _338576&month=06&year=2025#assignment_14859589
-X-ALT-DESC;FMTTYPE=text/html:
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250424T190900Z
-UID:event-assignment-14907099
-DTSTART;VALUE=DATE;VALUE=DATE:20250609
-CLASS:PUBLIC
-DESCRIPTION:* Task: Read Chapter 1.7: Top-Down Design in the textbook and t
- ake the quiz.\n\n* Purpose: Demonstrate fact- and comprehension-level unde
- rstanding of the topics in the chapter.\n\n* Time: It should take about an
-  hour to complete this activity.  Previous semesters have averaged 42 min
- utes.\n\n------------\nInstructions\n------------\n\n* Please read Chapter
-  1.7: Top-Down Design from the textbook.\n\n* You can take the quiz five t
- imes. The answers will be displayed after the due date.
-SEQUENCE:0
-SUMMARY:W08 Reading: Chapter 1.7 Top-Down [CSE 131]
-URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
- _334896&month=06&year=2025#assignment_14907099
-X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><div class="byui cse131">\n<ul>\n<li><strong>Task
- </strong>: Read Chapter 1.7: Top-Down Design in the textbook and take the 
- quiz.</li>\n<li><strong>Purpose</strong>: Demonstrate fact- and comprehens
- ion-level understanding of the topics in the chapter.</li>\n<li><strong>Ti
- me</strong>: It should take about an hour to complete this activity.&nbsp\
- ; Previous semesters have averaged 42 minutes.</li>\n</ul>\n<h2>Instructio
- ns</h2>\n<ul>\n<li>Please read Chapter 1.7: Top-Down Design from the textb
- ook.</li>\n<li>You can take the quiz five times. The answers will be displ
- ayed after the due date.</li>\n</ul>\n</div><script src="https://instructu
- re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544378
- 6/canvas_global_app.js"></script>
-END:VEVENT
-BEGIN:VEVENT
 DTSTAMP:20250402T180100Z
 UID:event-calendar-event-2535704
 DTSTART:20250610T173000Z
@@ -3626,7 +3243,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  0000001/attachments/95447814/canvas_global_app%20%25281%2529.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250614T060000Z
+DTSTAMP:20250708T195500Z
 UID:event-assignment-14669271
 DTSTART;VALUE=DATE;VALUE=DATE:20250625
 CLASS:PUBLIC
@@ -4108,7 +3725,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  814/canvas_global_app%20%25281%2529.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250418T160700Z
+DTSTAMP:20250708T135600Z
 UID:event-assignment-14909357
 DTSTART;VALUE=DATE;VALUE=DATE:20250628
 CLASS:PUBLIC
@@ -5137,7 +4754,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  86/canvas_global_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T184300Z
+DTSTAMP:20250709T170300Z
 UID:event-assignment-14857981
 DTSTART:20250707T161500Z
 DTEND:20250707T161500Z
@@ -5766,7 +5383,7 @@ X-ALT-DESC;FMTTYPE=text/html:<p><img role="presentation" src="https://byui.
  m/api/v1/courses/48558/files/148728326" data-api-returntype="File"></p>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250411T170200Z
+DTSTAMP:20250708T234000Z
 UID:event-assignment-14859607
 DTSTART;VALUE=DATE;VALUE=DATE:20250709
 CLASS:PUBLIC
@@ -6096,12 +5713,12 @@ URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
  _48558&month=07&year=2025#calendar_event_2583338
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250423T210300Z
+DTSTAMP:20250709T165900Z
 UID:event-assignment-override-1216807
 DTSTART:20250711T173000Z
 DTEND:20250711T173000Z
 CLASS:PUBLIC
-DESCRIPTION:Read chapter 15 of our book They Say / I Say. \n\nYou can acc
+DESCRIPTION:Read chapter 11 of our book They Say / I Say. \n\nYou can acc
  ess a free online version of the book here: [https://archive.org/details/
  they-say-i-say-5th-edition/page/n1/mode/2upLinks to an external site.] (ht
  tps://archive.org/details/they-say-i-say-5th-edition/page/n1/mode/2up) or
@@ -6109,12 +5726,12 @@ DESCRIPTION:Read chapter 15 of our book They Say / I Say. \n\nYou can acc
  pLinks to an external site.] (https://archive.org/details/theysayisay3rded
  ition/page/n29/mode/2up) 
 SEQUENCE:0
-SUMMARY:Read TS/IS chapter 15 (Section 9) [ENG 150]
+SUMMARY:Read TS/IS chapter 11 (Section 9) [ENG 150]
 URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
  _335578&month=07&year=2025#assignment_14889601
 X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544375
- 8/canvas_global_app.css"><p>Read chapter 15 of our book<span>&nbsp\;</span
+ 8/canvas_global_app.css"><p>Read chapter 11 of our book<span>&nbsp\;</span
  ><em>They Say / I Say.&nbsp\;</em></p>\n<p>You can access a free online ve
  rsion of the book here:<span>&nbsp\;</span><a class="external" href="https
  ://archive.org/details/they-say-i-say-5th-edition/page/n1/mode/2up" target
@@ -6398,14 +6015,39 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  chments/95443786/canvas_global_app.js"></script>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250605T153800Z
+DTSTAMP:20250710T060000Z
 UID:event-assignment-14669151
 DTSTART;VALUE=DATE;VALUE=DATE:20250712
 CLASS:PUBLIC
+DESCRIPTION:In this activity\, you will report the completion of this week'
+ s Book of Mormon [readings] (https://byui.instructure.com/courses/341216/p
+ ages/w12-study-readings) and [activities] (https://byui.instructure.com/co
+ urses/341216/pages/i475c632fb1cc2a800d67e0b5acf72ca2).\n\n----------\nCond
+ itions\n----------\n\n* Complete the report by honestly answering each que
+ stion in this quiz.\n\nNOTE: Be sure to complete all instructions in this 
+ activity before submitting it.
 SEQUENCE:0
 SUMMARY:W12 Report: Personal Study [REL 122]
 URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
  _341216&month=07&year=2025#assignment_14669151
+X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
+ re-uploads.s3.amazonaws.com/account_107060000000000001/attachments/9544780
+ 0/canvas_global_app%20%25281%2529.css"><div class="byui rel122">\n<p>In th
+ is activity\, you will<strong> </strong>report the completion of this week
+ 's Book of Mormon <a title="W12 Study: Readings" href="https://byui.instru
+ cture.com/courses/341216/pages/w12-study-readings" data-api-endpoint="http
+ s://byui.instructure.com/api/v1/courses/341216/pages/w12-study-readings" d
+ ata-api-returntype="Page">readings</a> and <a title="W12 Study: Digging De
+ eper" href="https://byui.instructure.com/courses/341216/pages/i475c632fb1c
+ c2a800d67e0b5acf72ca2" data-api-endpoint="https://byui.instructure.com/api
+ /v1/courses/341216/pages/i475c632fb1cc2a800d67e0b5acf72ca2" data-api-retur
+ ntype="Page">activities</a>.</p>\n<h2>Conditions</h2>\n<ol>\n<li>Complete 
+ the report by honestly answering each question in this quiz.</li>\n</ol>\n
+ <p><span style="text-align: right\; font-size: 1rem\;"><strong>NOTE: </str
+ ong>Be sure to complete all instructions in this activity before submittin
+ g it.</span></p>\n</div><script src="https://instructure-uploads.s3.amazon
+ aws.com/account_107060000000000001/attachments/95447814/canvas_global_app%
+ 20%25281%2529.js"></script>
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20250418T160700Z
@@ -6871,7 +6513,7 @@ URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
 X-ALT-DESC;FMTTYPE=text/html:
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T060000Z
+DTSTAMP:20250708T194600Z
 UID:event-assignment-14669287
 DTSTART;VALUE=DATE;VALUE=DATE:20250716
 CLASS:PUBLIC
@@ -7092,7 +6734,7 @@ X-ALT-DESC;FMTTYPE=text/html:<link rel="stylesheet" href="https://instructu
  cript>
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250627T190600Z
+DTSTAMP:20250708T193900Z
 UID:event-assignment-14669205
 DTSTART;VALUE=DATE;VALUE=DATE:20250719
 CLASS:PUBLIC
@@ -7112,7 +6754,7 @@ URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
  _338576&month=07&year=2025#assignment_14857985
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250705T060000Z
+DTSTAMP:20250708T194600Z
 UID:event-assignment-14669291
 DTSTART;VALUE=DATE;VALUE=DATE:20250719
 CLASS:PUBLIC
@@ -7561,7 +7203,7 @@ URL;VALUE=URI:https://byui.instructure.com/calendar?include_contexts=course
  _335012&month=07&year=2025#assignment_14909365
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250605T153900Z
+DTSTAMP:20250708T194800Z
 UID:event-assignment-14669293
 DTSTART;VALUE=DATE;VALUE=DATE:20250723
 CLASS:PUBLIC

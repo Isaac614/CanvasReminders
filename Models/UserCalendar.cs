@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 using System.Net.Http;
 using System.Text.Json;
 using Ical.Net;
@@ -40,6 +41,7 @@ public class UserCalendar
             ParseData(_rawData);
             SortByDate();
             CreateCombinedCourse();
+            SaveToFile();
             SaveToFile();
         }
     }
@@ -159,15 +161,12 @@ public class UserCalendar
 
     private void CreateCombinedCourse()
     {
-        List<Event> allEvents = new();
-        foreach (Course course in _courses)
-        {
-            allEvents.AddRange(course.Events);
-        }
-
-        Course concatCourse = new Course("All Assignments");
-        concatCourse.Events = allEvents;
-        concatCourse.SortEventsByDate();
-        _courses.Insert(0, concatCourse);
+        Course allEventsCourse = new Course("All Reminders");
+        allEventsCourse.Events = new List<Event>(
+            Courses.SelectMany(c => c.Events)
+        );
+        allEventsCourse.SortEventsByDate();
+        Courses.Insert(0, allEventsCourse);
+        
     }
 }

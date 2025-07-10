@@ -16,30 +16,6 @@
         <vm:MainWindowViewModel/>
     </Design.DataContext>
 
-    <SplitView
-        Background="white"
-        IsPaneOpen="{Binding IsPaneOpen}"
-        OpenPaneLength="300"
-        CompactPaneLength="50"
-        DisplayMode="CompactInline">
-        <SplitView.Pane>
-            <StackPanel>
-                <!-- <Button Command="{Binding ButtonClick}">=</Button> -->
-                <ListBox ItemsSource="{Binding Courses}"
-                         SelectedItem="{Binding SelectedItem}">
-                    <ListBox.ItemTemplate>
-                        <DataTemplate DataType="{x:Type vm:CourseViewModel}">
-                            <StackPanel>
-                                <TextBlock Text="{Binding CourseName}" />
-                            </StackPanel>
-                        </DataTemplate>
-                    </ListBox.ItemTemplate>
-                </ListBox>
-            </StackPanel>
-        </SplitView.Pane>
-        <StackPanel>
-            <TransitioningContentControl Content="{Binding CurrentPage}"></TransitioningContentControl>
-        </StackPanel>
-    </SplitView>
+    <ContentControl Content="{Binding CurrentWindow}" />
 
 </Window>

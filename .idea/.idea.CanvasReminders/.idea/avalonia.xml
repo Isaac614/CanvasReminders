@@ -7,6 +7,7 @@
         <entry key="Views/CourseView.axaml" value="CanvasReminders.csproj" />
         <entry key="Views/EventView.axaml" value="CanvasReminders.csproj" />
         <entry key="Views/EventViewModel.axaml" value="CanvasReminders.csproj" />
+        <entry key="Views/InputView.axaml" value="CanvasReminders.csproj" />
         <entry key="Views/ListDisplayView.axaml" value="CanvasReminders.csproj" />
         <entry key="Views/MainWindow.axaml" value="CanvasReminders.csproj" />
       </map>

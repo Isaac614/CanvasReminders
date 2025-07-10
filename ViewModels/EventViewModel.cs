@@ -49,11 +49,12 @@ public partial class EventViewModel : ViewModelBase
     partial void OnCompletedChanged(bool value)
     {
         _event.Completed = value;
+        // _calendar.SaveToFile();
     }
 
-    [RelayCommand]
-    private void CheckboxClick()
-    {
-        _calendar.SaveToFile();
-    }
+    // [RelayCommand]
+    // private void CheckboxClick()
+    // {
+    //     _calendar.SaveToFile();
+    // }
 }

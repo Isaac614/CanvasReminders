@@ -25,6 +25,8 @@ public partial class EventViewModel : ViewModelBase
     
     [ObservableProperty]
     private string _description;
+
+    [ObservableProperty] private string _eventInfo;
     public EventViewModel(Event e)
     {
         _event = e;
@@ -33,6 +35,7 @@ public partial class EventViewModel : ViewModelBase
         DueDate = e.DueDate;
         Completed = e.Completed;
         Description = e.Description;
+        // EventInfo = Summary + "\n" + DueDate;
     }
     
     public EventViewModel(Event e, UserCalendar calendar)
@@ -44,6 +47,7 @@ public partial class EventViewModel : ViewModelBase
         Completed = e.Completed;
         Description = e.Description;
         _calendar = calendar;
+        // EventInfo = Summary + "\n" + DueDate;
     }
     
     partial void OnCompletedChanged(bool value)

@@ -7,8 +7,27 @@
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="CanvasReminders.Views.EventView">
     
-    <StackPanel>
-        <CheckBox IsChecked="{Binding Completed}"
-                  Content="{Binding Summary}"></CheckBox>
-    </StackPanel>
+    <UserControl.Styles>
+        <Style Selector="CheckBox:checked /template/ Border#NormalRectangle">
+            <Setter Property="Background" Value="rgb(89, 32, 232)" />
+            <Setter Property="BorderBrush" Value="rgb(89, 32, 232)" />
+        </Style>
+    
+        <Style Selector="CheckBox:checked /template/ Path#CheckGlyph">
+            <Setter Property="Fill" Value="White" />
+        </Style>
+    </UserControl.Styles>
+    
+    <DockPanel>
+        <CheckBox IsChecked="{Binding Completed}">
+            <StackPanel
+                Margin="8, 0, 0,0">
+                <TextBlock Text="{Binding Summary}" 
+                           FontSize="15"/>
+                <TextBlock Text="{Binding DueDate}" 
+                           FontSize="12"
+                           Foreground="rgb(134, 134, 134)" />
+            </StackPanel>
+        </CheckBox>
+    </DockPanel>
 </UserControl>

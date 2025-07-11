@@ -10,4 +10,12 @@ public partial class CourseView : UserControl
     {
         InitializeComponent();
     }
+    
+    private void OnSelectionChanged(object sender, SelectionChangedEventArgs e)
+    {
+        if (sender is ListBox listBox)
+        {
+            listBox.SelectedItem = null;
+        }
+    }
 }

@@ -15,6 +15,7 @@ public class UserCalendar
     private string? _link;
     private string? _rawData;
     private List<Course> _courses = new();
+    public Course AllEvents { get; set; }
 
     public List<Course> Courses
     {
@@ -40,8 +41,7 @@ public class UserCalendar
             RequestFile(_link, "Models/CalData.ics");
             ParseData(_rawData);
             SortByDate();
-            CreateCombinedCourse();
-            SaveToFile();
+            // CreateCombinedCourse();
             SaveToFile();
         }
     }
@@ -161,12 +161,10 @@ public class UserCalendar
 
     private void CreateCombinedCourse()
     {
-        Course allEventsCourse = new Course("All Reminders");
-        allEventsCourse.Events = new List<Event>(
+        AllEvents = new Course("All Reminders");
+        AllEvents.Events = new List<Event>(
             Courses.SelectMany(c => c.Events)
         );
-        allEventsCourse.SortEventsByDate();
-        Courses.Insert(0, allEventsCourse);
-        
+        AllEvents.SortEventsByDate();
     }
 }

@@ -9,29 +9,30 @@
     
     
     <SplitView
-        Background="white"
+        Background="rgb(50, 50, 50)"
         IsPaneOpen="{Binding IsPaneOpen}"
         OpenPaneLength="300"
         CompactPaneLength="50"
         DisplayMode="CompactInline">
         <SplitView.Pane>
-            <StackPanel>
+            <Border Background="rgb(50, 50, 50)">
                 <!-- <Button Command="{Binding ButtonClick}">=</Button> -->
                 <ListBox ItemsSource="{Binding Courses}"
-                         SelectedItem="{Binding SelectedItem}">
+                         SelectedItem="{Binding SelectedItem}"
+                         CornerRadius="10"
+                         Margin="20, 20, 10, 20"
+                         Background="rgb(30, 30, 30)">
                     <ListBox.ItemTemplate>
                         <DataTemplate DataType="{x:Type vm:CourseViewModel}">
-                            <StackPanel>
                                 <TextBlock Text="{Binding CourseName}" />
-                            </StackPanel>
                         </DataTemplate>
                     </ListBox.ItemTemplate>
                 </ListBox>
-            </StackPanel>
+            </Border>
         </SplitView.Pane>
-        <StackPanel>
+        <DockPanel>
             <TransitioningContentControl Content="{Binding CurrentPage}"></TransitioningContentControl>
-        </StackPanel>
+        </DockPanel>
     </SplitView>
     
     
